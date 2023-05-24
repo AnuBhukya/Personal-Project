@@ -5,12 +5,16 @@
 		<members>AccountTriggerHandlerTest</members>
 		<members>ContactTriggerHandler</members>
 		<members>ContactTriggerHandlerTest</members>
+		<members>OpportunityTriggerHandler</members>
+		<members>OpportunityTriggerHandlerClass</members>
+		<members>OpportunityTriggerHandler_Test</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
 		<members>AccountTrigger</members>
 		<members>ContactTrigger</members>
 		<members>CreateContact</members>
+		<members>OpportunityTrigger</members>
 		<name>ApexTrigger</name>
 	</types>
 	<version>55.0</version>
